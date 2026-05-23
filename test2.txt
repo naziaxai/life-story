@@ -7,3 +7,5 @@ added birthday story and ssc info
 i am believe in skill not in extra talking
 -Don,t mind me as I am little bit bossy
 -logo is align or centred
+- I was born in 21 th february
+-new line was added from master branch
